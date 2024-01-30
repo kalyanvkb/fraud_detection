@@ -1,1 +1,1 @@
-print("Kalyan is the most intelligent person on the earth!! Atluntadhi malla")
+print("Kalyan is the most intelligent person on the earth")
